@@ -32,6 +32,7 @@ I conducted an extensive analysis of various research papers and related work in
   -  LLM, NLP & OCR showsoutstanding performance. It has an FN of1.144, indicating very few missed fields.The precision is high at 0.94 (or 94%), andthe recall is exceptionally high at 93.91%,leading to an F1 score of 0.94.
 
 - [**Resume Classification using various Machine Learning Algorithms**](https://www.itm-conferences.org/articles/itmconf/pdf/2022/04/itmconf_icacc2022_03011.pdf)
+
 | Algorithm      | Accuracy | Precision | Recall | F1 Score |
 | -------------- | -------- | --------- | ------ | -------- |
 | Naïve Bayes    | 45       | 0.521     | 0.452  | 0.448    |
