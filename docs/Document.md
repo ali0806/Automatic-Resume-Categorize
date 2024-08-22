@@ -48,7 +48,8 @@ The model is built using a pre-trained BERT model (bert-base-uncased) integrated
 
 
 - **Model**: Extracts contextual embeddings from the resume text.
-- **Intermediate Linear Layer:** Transforms the BERT output into a feature space of 512 dimensions.- **Dropout Layer:** Applies dropout regularization with a probability of 0.3 to prevent overfitting.
+- **Intermediate Linear Layer:** Transforms the BERT output into a feature space of 512 dimensions.
+- **Dropout Layer:** Applies dropout regularization with a probability of 0.3 to prevent overfitting.
 - **Output Linear Layer:** Maps the transformed features to the desired number of output classes.
 
 ## Reason Behind Choosing the BERT Model
